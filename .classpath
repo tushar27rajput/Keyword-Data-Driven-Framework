@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="E:/swd/selenium-java-3.8.1/client-combined-3.8.1.jar"/>
+	<classpathentry kind="lib" path="E:/swd/selenium-java-3.8.1/client-combined-3.8.1-sources.jar"/>
+	<classpathentry kind="lib" path="E:/swd/selenium-java-3.8.1/libs/byte-buddy-1.7.5.jar"/>
+	<classpathentry kind="lib" path="E:/swd/selenium-java-3.8.1/libs/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="E:/swd/selenium-java-3.8.1/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/swd/selenium-java-3.8.1/libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/swd/selenium-java-3.8.1/libs/gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="E:/swd/selenium-java-3.8.1/libs/guava-23.0.jar"/>
+	<classpathentry kind="lib" path="E:/swd/selenium-java-3.8.1/libs/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="E:/swd/selenium-java-3.8.1/libs/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="E:/swd/org.apache.commons.io.jar/org.apache.commons.io.jar"/>
+	<classpathentry kind="lib" path="E:/swd/mysql-connector-java-8.0.11/mysql-connector-java-8.0.11/mysql-connector-java-8.0.11.jar"/>
+	<classpathentry kind="lib" path="E:/swd/jxl-2.6.jar/jxl-2.6.jar"/>
+	<classpathentry kind="lib" path="E:/swd/jar_files/asm-3.3.1.jar"/>
+	<classpathentry kind="lib" path="E:/swd/jar_files/cglib-2.2.2.jar"/>
+	<classpathentry kind="lib" path="E:/swd/jar_files/commons-beanutils-1.8.3.jar"/>
+	<classpathentry kind="lib" path="E:/swd/jar_files/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="E:/swd/jar_files/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/swd/jar_files/ghost4j-1.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/swd/jar_files/itext-2.1.7.jar"/>
+	<classpathentry kind="lib" path="E:/swd/jar_files/jai-imageio-core-1.3.1.jar"/>
+	<classpathentry kind="lib" path="E:/swd/jar_files/jcl-over-slf4j-1.7.13.jar"/>
+	<classpathentry kind="lib" path="E:/swd/jar_files/jna-4.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/swd/jar_files/jul-to-slf4j-1.7.13.jar"/>
+	<classpathentry kind="lib" path="E:/swd/jar_files/lept4j-1.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/swd/jar_files/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="E:/swd/jar_files/log4j-over-slf4j-1.7.13.jar"/>
+	<classpathentry kind="lib" path="E:/swd/jar_files/logback-classic-1.1.3.jar"/>
+	<classpathentry kind="lib" path="E:/swd/jar_files/logback-core-1.1.3.jar"/>
+	<classpathentry kind="lib" path="E:/swd/jar_files/rococoa-core-0.5.jar"/>
+	<classpathentry kind="lib" path="E:/swd/jar_files/slf4j-api-1.7.7.jar"/>
+	<classpathentry kind="lib" path="E:/swd/jar_files/tess4j-3.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/swd/jar_files/xmlgraphics-commons-1.4.jar"/>
+	<classpathentry kind="lib" path="E:/swd/file-utils.jar/file-utils.jar"/>
+	<classpathentry kind="lib" path="E:/swd/tess4j-1.3.0.jar"/>
+	<classpathentry kind="lib" path="E:/swd/sikulixsetup-1.1.2.jar"/>
+	<classpathentry kind="lib" path="E:/swd/selenium-server-standalone-3.11.0.jar"/>
+	<classpathentry kind="lib" path="E:/swd/java-client-5.0.4 (1).jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
